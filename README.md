@@ -3,7 +3,7 @@ We're LightPM
 
 We make short-term rental property managment quick and easy!
 Mange your short term rentals on: Airbnb, Bookings.com, ...
-
+(2)
 <!--
 
 **Here are some ideas to get you started:**
